@@ -2,4 +2,4 @@ sc10840
 hello
 experiment branch
 learning git push
-github version
+both versions combined
